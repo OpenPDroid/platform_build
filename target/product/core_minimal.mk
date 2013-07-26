@@ -30,6 +30,7 @@ PRODUCT_PACKAGES += \
     HTMLViewer \
     MediaProvider \
     PackageInstaller \
+    PDroid \
     SettingsProvider \
     Shell \
     apache-xml \

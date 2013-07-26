@@ -92,6 +92,7 @@ FRAMEWORKS_BASE_SUBDIRS := \
 	    media/mca/filterpacks \
 	    drm \
 	    opengl \
+	    privacy \
 	    sax \
 	    telephony \
 	    wifi \
